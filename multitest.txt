@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 bbb
+=======
+aaaaa
+>>>>>>> 09f99c2347754544e06bc12782b70095eeb06f4a
+# fix conflicts
